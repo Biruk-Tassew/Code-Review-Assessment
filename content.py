@@ -43,6 +43,7 @@ def is_valid_parenthesis(s):
     
     return True
 
+
 # This function return the squared of the given number
 def get_square(number):
     return number ** 2
