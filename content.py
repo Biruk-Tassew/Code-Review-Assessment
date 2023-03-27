@@ -13,6 +13,7 @@ def increment_count():
 increment_count()
 print(count)
 
+# This function should verify if a given string with parenthesis id a valid one
 def is_valid_parenthesis(s):
     dc = {
         '(': ')',
