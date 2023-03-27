@@ -1,5 +1,10 @@
-# This is the count that will be increamented by increment_count function.
-count = 0
+# function to calculate area of a circle
+def calculateArea(radius):
+    return 3.14 * radius ** 2
+
+# function to divide numbers
+def divide_numbers(a, b):
+    return a / b
 
 # This function returns the product of the two numbers given
 def multiply(x, y):
