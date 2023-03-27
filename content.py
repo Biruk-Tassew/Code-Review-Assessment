@@ -6,6 +6,7 @@ def calculateArea(radius):
 def divide_numbers(a, b):
     return a / b
 
+count = 0
 # This function returns the product of the two numbers given
 def multiply(x, y):
     return x * y
